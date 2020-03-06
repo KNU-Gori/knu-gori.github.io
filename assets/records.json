@@ -32,5 +32,42 @@
     },
     "2017": {
 
+    },
+    "2016": {
+
+    },
+    "2015": {
+        "2015 ACM-ICPC Daejeon Preliminary Contest": {
+            "type": "team",
+            "records": [
+                {"rank": "83rd", "team": "Unregistered", "members": "류재현, 김성현, 정유희"}
+            ]
+        },
+        "ACM-ICPC Asia Daejeon Regional 2013": {
+            "type": "team",
+            "records": [
+                {"rank": "31st", "team": "Unregistered", "members": "류재현, 김성현, 정유희"}
+            ]
+        }
+    },
+    "2014": {
+
+    },
+    "2013": {
+        "ACM-ICPC Asia Daejeon Regional 2013 Online Round": {
+            "type": "team",
+            "records": [
+                {"rank": "41st", "team": "AYBABTU", "members": "이동건, 류재현, 권휘준"}
+            ]
+        },
+        "ACM-ICPC Asia Daejeon Regional 2013": {
+            "type": "team",
+            "records": [
+                {"rank": "66th", "team": "AYBABTU", "members": "이동건, 류재현, 권휘준"}
+            ]
+        }
+    },
+    "2012": {
+
     }
 }
