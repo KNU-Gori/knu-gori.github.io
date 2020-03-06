@@ -1,11 +1,27 @@
 /*
 {
     "2020": {
-        "대회명1": {
-            "type": "team",  // type: team | individual
+        "팀대회 대회명1": {
+            "type": "team",
+            "records": [
+                {"rank": "200", "team": "ㅁㄴㅇㄻㄴㅇㄻㄴㅇㄹ", "members": "a, b, c"},
+                {"rank": "300", "team": "팀명", "members": "d, e, f"}
+            ]
+        },
+        "개인대회 대회명2": {
+            "type": "individual",
+            "records": [
+                {"rank": "a", "name": "asdf"},
+                {"rank": "a", "name": "123"}
+            ]
+        },
+        "팀대회 대회명3": {
+            "type": "team",
             "records": [
                 {"rank": "a", "team": "teamname", "members": "a, b, c"},
                 {"rank": "a", "team": "teamname", "members": "a, b, c"},
+                {"rank": "a", "team": "teamname", "members": "a, b, c"},
+                {"rank": "a", "team": "teamname", "members": "a, b, c"}
             ]
         }
     },
@@ -14,9 +30,6 @@
     }, ...
 }
 */
-
-
-
 
 let url = '/assets/records.json';
 const req = new XMLHttpRequest();
