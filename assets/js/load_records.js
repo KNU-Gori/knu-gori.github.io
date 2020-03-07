@@ -155,7 +155,4 @@ const show_records = (year) => {
             // unknown contest type
         }
     }  // endfor
-
-    render_div.insertAdjacentHTML('beforeend', `<br/><p>정보가 누락되었거나, 잘못된 정보를 발견했거나, 자신의 기록이 노출되는 것을 원치 않으실 경우 회장에게 문의해 주시기 바랍니다.</p>`);
-    render_div.insertAdjacentHTML('beforeend', `<p><a href="https://github.com/KNU-Gori/knu-gori.github.io" target="_blank">이 홈페이지의 Repository</a>에 직접 Pull request를 보내주셔도 됩니다.</p>`);
 }

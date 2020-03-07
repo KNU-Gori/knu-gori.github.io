@@ -19,8 +19,17 @@ header > p {
     margin: 0;
 }
 
+footer > p {
+    font-size: 0.8em;
+    margin: 0;
+}
+
 #top_logo {
     width: 120px;
+}
+
+article {
+    padding-bottom: 10px;
 }
 
 figure > img {
