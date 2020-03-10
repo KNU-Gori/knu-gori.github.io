@@ -33,9 +33,13 @@ article {
 }
 
 table {
-    display: block;
+    display: inline-block;
     overflow-x: auto;
     white-space: nowrap;
+}
+
+tbody > tr > th {
+    font-weight: normal;
 }
 
 figure {
