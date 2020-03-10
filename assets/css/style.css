@@ -32,6 +32,16 @@ article {
     padding-bottom: 10px;
 }
 
+table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+figure {
+    margin: 1em 10px;
+}
+
 figure > img {
     max-width: 100%;
     display: block;
