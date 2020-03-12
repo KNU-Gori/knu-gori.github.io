@@ -4,8 +4,8 @@
         "팀대회 대회명1": {
             "type": "team",
             "records": [
-                {"rank": "200", "team": "ㅁㄴㅇㄻㄴㅇㄻㄴㅇㄹ", "members": "a, b, c"},
-                {"rank": "300", "team": "팀명", "members": "d, e, f"}
+                {"rank": "200", "team": "ㅁㄴㅇㄻㄴㅇㄻㄴㅇㄹ",},
+                {"rank": "300", "team": "팀명"}
             ]
         },
         "개인대회 대회명2": {
@@ -18,10 +18,10 @@
         "팀대회 대회명3": {
             "type": "team",
             "records": [
-                {"rank": "a", "team": "teamname", "members": "a, b, c"},
-                {"rank": "a", "team": "teamname", "members": "a, b, c"},
-                {"rank": "a", "team": "teamname", "members": "a, b, c"},
-                {"rank": "a", "team": "teamname", "members": "a, b, c"}
+                {"rank": "a", "team": "teamname"},
+                {"rank": "a", "team": "teamname"},
+                {"rank": "a", "team": "teamname"},
+                {"rank": "a", "team": "teamname"}
             ]
         }
     },
@@ -123,7 +123,6 @@ const show_records = (year) => {
             thead.insertAdjacentHTML('beforeend', `<tr>
                                                     <th>Rank</th>
                                                     <th>Team</th>
-                                                    <th>Members</th>
                                                     </tr>`);
             
             let tbody = document.getElementById(`tbody-${i}`);
@@ -132,7 +131,6 @@ const show_records = (year) => {
                 tbody.insertAdjacentHTML('beforeend', `<tr>
                                                         <th>${row['rank']}</th>
                                                         <th>${row['team']}</th>
-                                                        <th>${row['members']}</th>
                                                         </tr>`);
             }
         } else if (contest['type'] === 'individual') {

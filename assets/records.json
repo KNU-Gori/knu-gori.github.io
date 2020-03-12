@@ -6,18 +6,18 @@
         "2019 ICPC Seoul Regional Preliminary Contest": {
             "type": "team",
             "records": [
-                {"rank": "19th", "team": "Catdriip", "members": "전현승, 전형록, 신현준"},
-                {"rank": "144th", "team": "programming hack gosu", "members": "김도현, 김원기, 김동윤"},
-                {"rank": "191st", "team": "Zizon_Choi_In_Jun_theKingOfAlgorithm", "members": "최인준, 김동환, 김만기"},
-                {"rank": "196th", "team": "im-champion-pc", "members": "박세찬, 이재영, 권현수"},
-                {"rank": "273rd", "team": "The most shining me", "members": "김상천, 김지훈, 배진성"},
-                {"rank": "560th", "team": "Whitecow", "members": "김현우, 석찬휘, 장성원"}
+                {"rank": "19th", "team": "Catdriip"},
+                {"rank": "144th", "team": "programming hack gosu"},
+                {"rank": "191st", "team": "Zizon_Choi_In_Jun_theKingOfAlgorithm"},
+                {"rank": "196th", "team": "im-champion-pc"},
+                {"rank": "273rd", "team": "The most shining me"},
+                {"rank": "560th", "team": "Whitecow"}
             ]
         },
         "2019 ICPC Seoul Regional": {
             "type": "team",
             "records": [
-                {"rank": "19th (ICPC 11st)", "team": "Catdriip", "members": "전현승, 전형록, 신현준"}
+                {"rank": "19th (ICPC 11st)", "team": "Catdriip"}
             ]
         }
     },
@@ -25,18 +25,18 @@
         "2018 ICPC Seoul Regional 인터넷예선": {
             "type": "team",
             "records": [
-                {"rank": "44th", "team": "1gunpil2mipil", "members": "전현승, 김성현, 전형록"},
-                {"rank": "97th", "team": "A-Molang", "members": "최병욱, 성대경, 허철훈"},
-                {"rank": "124th", "team": "MashedPotato", "members": "김현학, 김진규, 윤진"},
-                {"rank": "140th", "team": "ABCDEOFGHIJKLMN", "members": "조수현, 김만기, 권혁창"},
-                {"rank": "210th", "team": "Baldis algorithm class", "members": "정명원, 김경수, 윤성환"},
-                {"rank": "512th", "team": "DeliciousLunch", "members": "김현우, 장성원, 석찬휘"}
+                {"rank": "44th", "team": "1gunpil2mipil"},
+                {"rank": "97th", "team": "A-Molang"},
+                {"rank": "124th", "team": "MashedPotato"},
+                {"rank": "140th", "team": "ABCDEOFGHIJKLMN"},
+                {"rank": "210th", "team": "Baldis algorithm class"},
+                {"rank": "512th", "team": "DeliciousLunch"}
             ]
         },
         "2018 ICPC Seoul Regional": {
             "type": "team",
             "records": [
-                {"rank": "34th (ICPC 20th)", "team": "1gunpil2mipil", "members": "전현승, 김성현, 전형록"}
+                {"rank": "34th (ICPC 20th)", "team": "1gunpil2mipil"}
             ]
         }
     },
@@ -44,15 +44,15 @@
         "2017 Asia Daejeon National First Round Programming Contest": {
             "type": "team",
             "records": [
-                {"rank": "150th", "team": "EXPT", "members": "김성현, 최환일, 전형록"},
-                {"rank": "192nd", "team": "HSK", "members": ""},
-                {"rank": "280th", "team": "Hagosipda", "members": ""}
+                {"rank": "150th", "team": "EXPT"},
+                {"rank": "192nd", "team": "HSK"},
+                {"rank": "280th", "team": "Hagosipda"}
             ]
         },
         "2017 ACM-ICPC Daejeon Regional": {
             "type": "team",
             "records": [
-                {"rank": "49th (ICPC HM)", "team": "EXPT", "members": "김성현, 최환일, 전형록"}
+                {"rank": "49th (ICPC HM)", "team": "EXPT"}
             ]
         }
     },
@@ -60,23 +60,23 @@
         "2016 ACM-ICPC Daejeon Regional Preliminary Contest": {
             "type": "team",
             "records": [
-                {"rank": "63rd", "team": "Bit Da Bit", "members": "김성현, 이호승, 전형록"},
-                {"rank": "137th", "team": "Alsugabutda", "members": ""},
-                {"rank": "388th", "team": "IntDa_Int", "members": ""},
-                {"rank": "403rd", "team": "GgyuU?", "members": ""},
-                {"rank": "542nd", "team": "ID-IOT", "members": ""}
+                {"rank": "63rd", "team": "Bit Da Bit"},
+                {"rank": "137th", "team": "Alsugabutda"},
+                {"rank": "388th", "team": "IntDa_Int"},
+                {"rank": "403rd", "team": "GgyuU?"},
+                {"rank": "542nd", "team": "ID-IOT"}
             ]
         },
         "2016 ACM-ICPC Asia Daejeon Regional Contest": {
             "type": "team",
             "records": [
-                {"rank": "52nd (ICPC 24th)", "team": "Bit Da Bit", "members": "김성현, 이호승, 전형록"}
+                {"rank": "52nd (ICPC 24th)", "team": "Bit Da Bit"}
             ]
         },
         "Coder's high 2016 Round 1: Online": {
             "type": "team",
             "records": [
-                {"rank": "48th", "team": "KNUth", "members": ""}
+                {"rank": "48th", "team": "KNUth"}
             ]
         }
     },
@@ -84,13 +84,13 @@
         "2015 ACM-ICPC Daejeon Preliminary Contest": {
             "type": "team",
             "records": [
-                {"rank": "83rd", "team": "Unregistered", "members": "류재현, 김성현, 정유희"}
+                {"rank": "83rd", "team": "Unregistered"}
             ]
         },
         "2015 ACM-ICPC Daejeon Regional": {
             "type": "team",
             "records": [
-                {"rank": "63rd (ICPC 31st)", "team": "Unregistered", "members": "류재현, 김성현, 정유희"}
+                {"rank": "63rd (ICPC 31st)", "team": "Unregistered"}
             ]
         }
     },
@@ -101,13 +101,13 @@
         "ACM-ICPC Asia Daejeon Regional 2013 Preliminary Contest": {
             "type": "team",
             "records": [
-                {"rank": "41st", "team": "AYBABTU", "members": "이동건, 류재현, 권휘준"}
+                {"rank": "41st", "team": "AYBABTU"}
             ]
         },
         "ACM-ICPC Asia Daejeon Regional 2013": {
             "type": "team",
             "records": [
-                {"rank": "66th (ICPC HM)", "team": "AYBABTU", "members": "이동건, 류재현, 권휘준"}
+                {"rank": "66th (ICPC HM)", "team": "AYBABTU"}
             ]
         }
     },
