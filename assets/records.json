@@ -1,6 +1,17 @@
 {
     "2020": {
-
+        "2020 ICPC Seoul Regional Preliminary Contest": {
+            "type": "team",
+            "records": [
+                {"rank": "43rd", "team": "3mipil"}
+            ]
+        },
+        "2020 ICPC Seoul Regional": {
+            "type": "team",
+            "records": [
+                {"rank": "51st (ICPC 32nd)", "team": "3mipil"}
+            ]
+        }
     },
     "2019": {
         "2019 ICPC Seoul Regional Preliminary Contest": {
