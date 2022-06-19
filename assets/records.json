@@ -1,4 +1,12 @@
 {
+    "2021": {
+        "ICPC World Finals Moscow": {
+            "type": "team",
+            "records": [
+                {"rank": "77th", "team": "Catdriip"}
+            ]
+        }
+    },
     "2020": {
         "2020 ICPC Seoul Regional Preliminary Contest": {
             "type": "team",
