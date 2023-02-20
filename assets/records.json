@@ -1,4 +1,12 @@
 {
+    "2022": {
+        "2022 ICPC Seoul Regional": {
+            "type": "team",
+            "records": [
+                {"rank": "39th", "team": "samsong"}
+            ]
+        }
+    },
     "2021": {
         "ICPC World Finals Moscow": {
             "type": "team",
