@@ -1,4 +1,12 @@
 {
+    "2023": {
+        "2023 ICPC Seoul Regional": {
+            "type": "team",
+            "records": [
+                {"rank": "24th", "team": "Hobanwoo"}
+            ]
+        }
+    },
     "2022": {
         "2022 ICPC Seoul Regional": {
             "type": "team",
