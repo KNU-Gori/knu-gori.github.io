@@ -1,4 +1,12 @@
 {
+    "2025": {
+        "2025 ICPC Seoul Regional": {
+            "type": "team",
+            "records": [
+                {"rank": "67th", "team": "1Che0ngDam"}
+            ]
+        }
+    },
     "2023": {
         "2023 ICPC Seoul Regional": {
             "type": "team",
